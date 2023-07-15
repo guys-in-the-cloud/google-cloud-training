@@ -22,4 +22,6 @@ This repo will help you getting started your jouney in the field cloud computing
 | Day 17 | 74. Brief about monolith & microservices with use cases <br /> 75. Concept of container & container registry <br /> 76. creation of a container image of a previously created sample application in a cloud shell(local) <br /> 77. Testing & Pushing the created container image to the Google Container registry <br /> 78. Deployment of created container image into Cloud Run <br /> 79. Some advanced features like split traffic & their use cases | [Video link](https://www.youtube.com/watch?v=eWGIpfsvTi8&list=PLOkpV3-yR0W7hy2MdlvqstvRNhJTDGhFB&index=18&pp=gAQBiAQB) |
 | Bonus session | 1. What is VPC, Subnet? <br /> 2. What is CIDR? <br /> 3. What is IETF & RFC? <br /> 4. How to do subnetting? <br /> 5. How to strategize VPC structure | [Video link](https://www.youtube.com/watch?v=Veb9Gyi4ifk&list=PLOkpV3-yR0W7hy2MdlvqstvRNhJTDGhFB&index=7) |
 
+### If you've any queries & wanted to connect with trainer, feel free to drop a message [LinkedIn](https://www.linkedin.com/in/abhisheksharma7389/)
+
 ## Keep Learning, Keep Growing...... See you in the Cloud :cloud: :cloud:
