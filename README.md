@@ -1,4 +1,4 @@
-# google-cloud-training by Abhishek Sharma
+# Google Cloud Training by Abhishek Sharma
 This repo will help you getting started your jouney in the field cloud computing with one of the leading public cloud provider  Google Cloud from very scratch.  
 
 | Days | Topics covered | Youtube Video Link |
